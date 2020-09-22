@@ -1,0 +1,2 @@
+# Flask application boilerplate
+I have found myself in a spot where I needed to rethink the way I structure my Flask application, especially if it is to be able to grow in to an enterprise level application. This repository contains only one model and one API endpoint, but it's purpose is to demonstrate how it should be structured. At the present these are all modules, but they should be folders in order to provide further modularization.
